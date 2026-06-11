@@ -1,0 +1,15 @@
+# Netlify build & deploy configuration
+# (Also readable by humans setting up Vercel/Cloudflare: build command + publish dir below.)
+
+[build]
+  command = "pnpm exec vite build"
+  publish = "dist/public"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+# Single-page app: serve index.html for any route so refreshes / deep links don't 404.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
