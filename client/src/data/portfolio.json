@@ -31,7 +31,7 @@
       "period": "Modern Day",
       "image": "/portfolio/michael_hedges.jpg",
       "imageAlt": "Michael Hedges holding a steel-string acoustic guitar",
-      "imageCaption": "Michael Hedges — fair use, identification (en.wikipedia.org)",
+      "imageCaption": "Michael Hedges — fair use, identification only",
       "details": "In the modern days, musicians are integrating dual-handed fretboard tapping, slap harmonics, and rhythmic body percussion directly into their melodic songs and rhythms."
     }
   ],
@@ -47,18 +47,18 @@
       "bio": "Atkins was an American guitarist, producer, and composer who popularized the “Nashville Sound” and bridged the gap between traditional country fingerpicking and mainstream jazz-pop. He expanded the foundational two-finger Travis picking technique into a highly efficient four-finger system, utilizing the thumb (p), index (i), middle (m), and ring (a) fingers. He wore a plastic thumbpick on his right hand to achieve a sharp, driving bass attack while using his remaining bare fingers to execute complex, syncopated treble melodies and chord substitutions. He popularized complex jazz chord voicings within country music arrangements, demonstrating that fingerstyle could handle sophisticated harmony. His arrangements of standard tunes, such as “Windy and Warm,” serve as essential pedagogical benchmarks for fingerstyle students worldwide.",
       "sources": [
         { "label": "Performance — “Windy and Warm”", "url": "https://www.youtube.com/watch?v=y7Mv8Y_Fp2M" },
-        { "label": "Biography — Wikipedia", "url": "https://en.wikipedia.org/wiki/Chet_Atkins" }
+        { "label": "Biography — Country Music Hall of Fame", "url": "https://countrymusichalloffame.org/hall-of-fame/chet-atkins" }
       ]
     },
     {
       "name": "Michael Hedges",
       "years": "1953–1997",
       "image": "/portfolio/michael_hedges.jpg",
-      "imageCredit": "Fair use, identification (en.wikipedia.org)",
+      "imageCredit": "Fair use — identification only",
       "bio": "Hedges was an American acoustic guitarist and composer trained in classical composition at the Peabody Conservatory. He revolutionized the steel-string acoustic guitar in the 1980s under the Windham Hill record label. He pioneered “percussive fingerstyle” by integrating extended techniques into traditional classical structures. These mechanics included slap harmonics (striking the strings sharply at specific harmonic nodes to excite overtones), dual-handed fretboard tapping, and using the guitar’s wooden body as a multi-tonal percussion instrument. He utilized heavy-gauge strings and extreme alternate tunings to lower the guitar’s register to mimic a cello or harp.",
       "sources": [
         { "label": "Performance — “Aerial Boundaries” (live)", "url": "https://www.youtube.com/watch?v=IZimv-KYr8M" },
-        { "label": "Biography — Wikipedia", "url": "https://en.wikipedia.org/wiki/Michael_Hedges" }
+        { "label": "Biography — nomadland.com (official)", "url": "https://www.nomadland.com/Bio.htm" }
       ]
     },
     {
@@ -69,7 +69,7 @@
       "bio": "Emmanuel is an Australian fingerstyle virtuoso who began his career as a child prodigy. He is one of only five players globally to be designated a “Certified Guitar Player” (CGP) by Chet Atkins. Emmanuel utilizes a highly developed hybrid technique, combining a thumbpick with his bare index, middle, and ring fingers. He is renowned for his precise “one-man-band” approach, where he simultaneously executes a driving, syncopated bassline, a mid-range chordal accompaniment, a percussive drum groove, and a fluid vocal-like melody without the aid of loop pedals or overdubbing. He also utilizes the guitar’s soundboard, neck, and tuning pegs to produce simulated snare drum, brush, and string-bend effects. Emmanuel has brought fingerstyle guitar to global concert halls, showcasing the absolute physical and dynamic limits of the solo acoustic guitar. His performance of Mason Williams’ “Classical Gas” demonstrates great rhythm and control.",
       "sources": [
         { "label": "Performance — “Classical Gas”", "url": "https://www.youtube.com/watch?v=S33tWZqXhnk" },
-        { "label": "Biography — Wikipedia", "url": "https://en.wikipedia.org/wiki/Tommy_Emmanuel" }
+        { "label": "Official bio — tommyemmanuel.com", "url": "https://tommyemmanuel.com/bio/" }
       ]
     },
     {
@@ -80,7 +80,7 @@
       "bio": "McKee is an American fingerstyle guitarist and composer who became a pioneer of the modern digital music era. His acoustic compositions achieved global viral success in 2006. He is heavily influenced by Michael Hedges and Don Ross. McKee’s playing features advanced modern techniques, including over-the-neck fretting (draping the fretting hand over the top of the neck to tap bass notes), percussive hand slaps on the lower strings, and the strategic use of partial capos to isolate specific open strings while leaving others in their natural registers. McKee successfully merged highly complex percussive techniques with accessible, pop-influenced melodic structures. His viral performance of “Drifting” demonstrated how physical movement and visual choreography could be integrated with acoustic guitar performance to engage modern digital audiences.",
       "sources": [
         { "label": "Performance — “Drifting”", "url": "https://www.youtube.com/watch?v=Ddn4MGaS3N4" },
-        { "label": "Biography — Wikipedia", "url": "https://en.wikipedia.org/wiki/Andy_McKee" }
+        { "label": "Official bio — andymckee.com", "url": "https://andymckee.com/bio" }
       ]
     }
   ],
@@ -136,7 +136,7 @@
   "techniqueImageCaption": "The picking hand at the strings — CC BY, Wikimedia Commons",
   "techniqueSources": [
     { "label": "JustinGuitar — Introduction to Fingerstyle Guitar (PIMA)", "url": "https://www.justinguitar.com/guitar-lessons/introduction-to-fingerstyle-guitar-bg-1105" },
-    { "label": "Guitar picking (PIMA, rest/free stroke) — Wikipedia", "url": "https://en.wikipedia.org/wiki/Guitar_picking" }
+    { "label": "Rest & Free Stroke (Apoyando / Tirando) — This is Classical Guitar", "url": "https://www.thisisclassicalguitar.com/lesson-rest-free-stroke-on-classical-guitar/" }
   ],
   "stylisticTraits": [
     "One common stylistic trait is placing melodic accents on the weak “and” beats between the steady bass pulses, as it creates a driving, dance-like rhythmic tension that most songs encompass.",
@@ -146,8 +146,7 @@
   "stylisticImage": "/portfolio/headstock.jpg",
   "stylisticImageCaption": "Retuning the strings opens new voicings and drones — CC BY-SA, Wikimedia Commons",
   "stylisticSources": [
-    { "label": "DADGAD tuning — Wikipedia", "url": "https://en.wikipedia.org/wiki/DADGAD" },
-    { "label": "List of guitar tunings (Open G & scordatura) — Wikipedia", "url": "https://en.wikipedia.org/wiki/List_of_guitar_tunings" }
+    { "label": "Getting Started with Alternate Tunings (DADGAD, Open G) — Acoustic Guitar", "url": "https://acousticguitar.com/getting-started-with-alternate-tunings/" }
   ],
   "practice": [
     {
@@ -189,7 +188,7 @@
     { "term": "Palm Muting", "definition": "Rest lightly the side of the picking hand's palm on the strings near the bridge saddle to dampen the sustain, creating a thumpy, percussive bass sound." }
   ],
   "vocabSources": [
-    { "label": "Guitar picking (terminology & strokes) — Wikipedia", "url": "https://en.wikipedia.org/wiki/Guitar_picking" }
+    { "label": "Guitar Terminology Glossary — Liberty Park Music", "url": "https://www.libertyparkmusic.com/guitar-terminology/" }
   ],
   "resources": [
     {
