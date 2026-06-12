@@ -8,7 +8,7 @@
       "image": "/portfolio/tarrega.jpg",
       "imageAlt": "Portrait of classical guitarist Francisco Tárrega",
       "imageCaption": "Francisco Tárrega — Public domain, Wikimedia Commons",
-      "details": "Fingerstyle has its roots in the period between the 1500s and the 1800s. Renaissance and Baroque lute composers, such as John Dowland, were some of the first to play several independent voices on a single stringed instrument, taking music originally written for a group of singers and arranging it for one player. By the 19th century, Spanish classical guitarists like Fernando Sor and Francisco Tárrega had set down clear rules for hand position and stroke type. The framework they built for finger independence is still the basis for how the guitar is taught today."
+      "details": "Starting from the 1500s to the 1800s, the technique of playing independent voices on a single stringed instrument began with Renaissance and Baroque lute composers, such as John Dowland. These musicians adapted a multi-part vocal counterpoint for a single player. In the 19th century, Spanish classical guitar masters like Fernando Sor and Francisco Tárrega formalized these hand positions and stroke types, establishing a rigorous pedagogical framework for finger independence that remains the standard today."
     },
     {
       "id": "blues-ragtime",
@@ -16,7 +16,7 @@
       "image": "/portfolio/mississippi_john_hurt.jpg",
       "imageAlt": "Mississippi John Hurt's restored home, now a museum, in Avalon, Mississippi",
       "imageCaption": "Mississippi John Hurt Museum, Avalon, MS — CC BY-SA, Wikimedia Commons",
-      "details": "Between the late 1800s and the 1930s, African-American musicians in the American Southeast developed a syncopated style that imitated ragtime piano on the acoustic guitar. Instead of a pick, they used the thumb to keep a steady, alternating bass line, much like a pianist's left hand, while the index and middle fingers played the syncopated melody on the higher strings, like the right hand. Players such as Mississippi John Hurt and Reverend Gary Davis led this style, and it became the foundation for the alternating-bass fingerpicking that is still common today."
+      "details": "In the late 1800s to 1930s, African-American (American Southeast) musicians developed a highly syncopated style designed to mimic ragtime piano on the acoustic guitar. Instead of using a plectrum, players used their thumb to maintain a steady, alternating bass line (simulating the pianist’s left hand) while their index and middle fingers plucked syncopated melodies on the treble strings (simulating the pianist’s right hand). This style, pioneered by artists like Mississippi John Hurt and Reverend Gary Davis, laid the technical groundwork for modern alternating-bass fingerpicking."
     },
     {
       "id": "folk-baroque",
@@ -24,7 +24,7 @@
       "image": "/portfolio/john_renbourn.jpg",
       "imageAlt": "The English folk group Pentangle, including John Renbourn",
       "imageCaption": "Pentangle (with John Renbourn) — CC, Wikimedia Commons",
-      "details": "The Folk Baroque movement grew out of the British folk revival in the 1960s. Guitarists like Davey Graham and John Renbourn combined traditional English and Celtic folk tunes with American blues, jazz, and early classical music. A key feature of the movement was the use of alternate tunings, most famously DADGAD, which Davey Graham created to imitate the droning, modal sound of Celtic instruments such as the bagpipe and the harp."
+      "details": "In the 1960s, there was the Folk Baroque Movement. Centered in the vibrant British folk revival, guitarists like Davey Graham and John Renbourn fused traditional English and Celtic folk melodies with American blues, jazz, and early classical music. This movement was characterized by the introduction of alternate tunings (most notably DADGAD, invented by Davey Graham) to replicate the modal, drone-like qualities of traditional Celtic instruments like the bagpipe or harp."
     },
     {
       "id": "modern-percussive",
@@ -32,7 +32,7 @@
       "image": "/portfolio/michael_hedges.jpg",
       "imageAlt": "Michael Hedges holding a steel-string acoustic guitar",
       "imageCaption": "Michael Hedges — fair use, identification only",
-      "details": "In more recent years, players have brought techniques like two-handed tapping on the fretboard, slap harmonics, and rhythmic percussion on the body of the guitar directly into their melodies and rhythms."
+      "details": "In the modern days, musicians are integrating dual-handed fretboard tapping, slap harmonics, and rhythmic body percussion directly into their melodic songs and rhythms."
     }
   ],
   "historySources": [
