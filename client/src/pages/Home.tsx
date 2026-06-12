@@ -87,10 +87,11 @@ export default function Home() {
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-background via-black/50 to-black/30 z-10" />
         <div className="container relative z-20 max-w-4xl text-center">
-          <h1 className="font-serif text-6xl md:text-8xl font-bold tracking-tight text-white drop-shadow-md">
-            {d.title}
+          <h1 className="font-serif text-5xl md:text-7xl font-bold tracking-tight text-white drop-shadow-md">
+            Style Research Portfolio
           </h1>
-          <p className="font-serif text-2xl md:text-3xl text-stone-200 italic mt-6">{d.author}</p>
+          <p className="font-serif text-3xl md:text-4xl text-stone-100 mt-6">{d.title}</p>
+          <p className="font-serif text-xl md:text-2xl text-stone-300 italic mt-2">{d.author}</p>
         </div>
       </section>
 
@@ -127,8 +128,8 @@ export default function Home() {
               {d.artists.map((artist) => (
                 <div key={artist.name} className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
                   <div className="lg:col-span-4">
-                    <div className="overflow-hidden rounded-lg border border-border bg-muted/30">
-                      <img src={artist.image} alt={artist.name} className="w-full h-72 lg:h-80 object-cover object-top" />
+                    <div className="rounded-lg border border-border bg-muted/30 overflow-hidden">
+                      <img src={artist.image} alt={artist.name} className="w-full h-auto object-contain" />
                     </div>
                     <p className="mt-2 font-mono text-[10px] text-muted-foreground">{artist.imageCredit}</p>
                   </div>
