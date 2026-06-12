@@ -1,78 +1,87 @@
 {
-  "title": "Fingerstyle Guitar: Style Research Portfolio",
-  "subtitle": "Musicianship Resource Package & Interactive Study Guide",
-  "author": "",
-  "overview": "A research portfolio on the fingerstyle guitar stream — tracing its history, influential artists, landmark recordings, characteristic techniques, stylistic traits, practice strategies, equipment, and the musical vocabulary that defines the genre, drawn from a semester of study.",
+  "title": "Fingerstyle Guitar",
+  "author": "Abby Zhao",
   "eras": [
     {
       "id": "renaissance-classical",
-      "name": "Renaissance & Classical",
       "period": "1500s–1800s",
-      "pioneers": ["John Dowland", "Fernando Sor", "Francisco Tárrega"],
-      "characteristics": "Independent contrapuntal voices, formalized finger independence, and flesh-and-nail tone production.",
-      "tunings": ["Standard Tuning (EADGBE)"],
-      "details": "The technique of playing independent voices on a single stringed instrument began with Renaissance and Baroque lute composers, such as John Dowland, who adapted multi-part vocal counterpoint for a single player. In the 19th century, Spanish classical guitar masters like Fernando Sor and Francisco Tárrega formalized these hand positions and stroke types, establishing a rigorous pedagogical framework for finger independence that remains the standard today."
+      "image": "/portfolio/tarrega.jpg",
+      "imageAlt": "Portrait of classical guitarist Francisco Tárrega",
+      "imageCaption": "Francisco Tárrega — Public domain, Wikimedia Commons",
+      "details": "Starting from the 1500s to the 1800s, the technique of playing independent voices on a single stringed instrument began with Renaissance and Baroque lute composers, such as John Dowland. These musicians adapted a multi-part vocal counterpoint for a single player. In the 19th century, Spanish classical guitar masters like Fernando Sor and Francisco Tárrega formalized these hand positions and stroke types, establishing a rigorous pedagogical framework for finger independence that remains the standard today."
     },
     {
       "id": "blues-ragtime",
-      "name": "Blues & Ragtime",
       "period": "Late 1800s–1930s",
-      "pioneers": ["Mississippi John Hurt", "Reverend Gary Davis"],
-      "characteristics": "Syncopated treble melodies over a steady, alternating thumb bass — ragtime piano translated to the guitar.",
-      "tunings": ["Standard Tuning", "Open Tunings"],
-      "details": "African-American musicians of the American Southeast developed a highly syncopated style designed to mimic ragtime piano on the acoustic guitar. Instead of a plectrum, players used their thumb to maintain a steady, alternating bass line (the pianist’s left hand) while their index and middle fingers plucked syncopated melodies on the treble strings (the right hand). This laid the technical groundwork for modern alternating-bass fingerpicking."
+      "image": "/portfolio/mississippi_john_hurt.jpg",
+      "imageAlt": "Mississippi John Hurt's restored home, now a museum, in Avalon, Mississippi",
+      "imageCaption": "Mississippi John Hurt Museum, Avalon, MS — CC BY-SA, Wikimedia Commons",
+      "details": "In the late 1800s to 1930s, African-American (American Southeast) musicians developed a highly syncopated style designed to mimic ragtime piano on the acoustic guitar. Instead of using a plectrum, players used their thumb to maintain a steady, alternating bass line (simulating the pianist’s left hand) while their index and middle fingers plucked syncopated melodies on the treble strings (simulating the pianist’s right hand). This style, pioneered by artists like Mississippi John Hurt and Reverend Gary Davis, laid the technical groundwork for modern alternating-bass fingerpicking."
     },
     {
       "id": "folk-baroque",
-      "name": "Folk Baroque",
       "period": "1960s",
-      "pioneers": ["Davey Graham", "John Renbourn"],
-      "characteristics": "Modal Celtic and English folk fused with blues and early classical; drone-like alternate tunings.",
-      "tunings": ["DADGAD", "Standard Tuning"],
-      "details": "Centered in the British folk revival, guitarists fused traditional English and Celtic folk melodies with American blues, jazz, and early classical music. The movement was characterized by alternate tunings — most notably DADGAD, invented by Davey Graham — to replicate the modal, drone-like qualities of traditional Celtic instruments such as the bagpipe or harp."
+      "image": "/portfolio/john_renbourn.jpg",
+      "imageAlt": "The English folk group Pentangle, including John Renbourn",
+      "imageCaption": "Pentangle (with John Renbourn) — CC, Wikimedia Commons",
+      "details": "In the 1960s, there was the Folk Baroque Movement. Centered in the vibrant British folk revival, guitarists like Davey Graham and John Renbourn fused traditional English and Celtic folk melodies with American blues, jazz, and early classical music. This movement was characterized by the introduction of alternate tunings (most notably DADGAD, invented by Davey Graham) to replicate the modal, drone-like qualities of traditional Celtic instruments like the bagpipe or harp."
     },
     {
-      "id": "percussive-modern",
-      "name": "Percussive & Modern",
+      "id": "modern-percussive",
       "period": "Modern Day",
-      "pioneers": ["Michael Hedges", "Tommy Emmanuel", "Andy McKee"],
-      "characteristics": "Dual-handed tapping, slap harmonics, and body percussion woven directly into melodic songs.",
-      "tunings": ["Open C", "DADGAD", "Standard Tuning"],
-      "details": "In the modern era, musicians integrate dual-handed fretboard tapping, slap harmonics, and rhythmic body percussion directly into their melodic songs and rhythms, treating the whole instrument as both melody and drum."
+      "image": "/portfolio/michael_hedges.jpg",
+      "imageAlt": "Michael Hedges holding a steel-string acoustic guitar",
+      "imageCaption": "Michael Hedges — fair use, identification (en.wikipedia.org)",
+      "details": "In the modern days, musicians are integrating dual-handed fretboard tapping, slap harmonics, and rhythmic body percussion directly into their melodic songs and rhythms."
     }
+  ],
+  "historySources": [
+    { "label": "Acoustic Guitar — 10 Great Moments in Fingerstyle Guitar History", "url": "https://acousticguitar.com/10-great-moments-in-fingerstyle-guitar-history/" }
   ],
   "artists": [
     {
       "name": "Chet Atkins",
-      "title": "Mister Guitar",
       "years": "1924–2001",
-      "bio": "An American guitarist, producer, and composer who popularized the “Nashville Sound” and bridged the gap between traditional country fingerpicking and mainstream jazz-pop. He expanded the foundational two-finger Travis picking technique into a highly efficient four-finger system using the thumb (p), index (i), middle (m), and ring (a) fingers, wearing a plastic thumbpick for a sharp, driving bass attack while his bare fingers executed complex, syncopated treble melodies and chord substitutions. He popularized complex jazz chord voicings within country arrangements, and his arrangement of “Windy and Warm” remains an essential pedagogical benchmark for fingerstyle students worldwide.",
-      "signatureTrack": "Windy and Warm",
-      "videoUrl": "https://www.youtube.com/watch?v=y7Mv8Y_Fp2M"
+      "image": "/portfolio/chet_atkins.jpg",
+      "imageCredit": "Public domain, Wikimedia Commons",
+      "bio": "Atkins was an American guitarist, producer, and composer who popularized the “Nashville Sound” and bridged the gap between traditional country fingerpicking and mainstream jazz-pop. He expanded the foundational two-finger Travis picking technique into a highly efficient four-finger system, utilizing the thumb (p), index (i), middle (m), and ring (a) fingers. He wore a plastic thumbpick on his right hand to achieve a sharp, driving bass attack while using his remaining bare fingers to execute complex, syncopated treble melodies and chord substitutions. He popularized complex jazz chord voicings within country music arrangements, demonstrating that fingerstyle could handle sophisticated harmony. His arrangements of standard tunes, such as “Windy and Warm,” serve as essential pedagogical benchmarks for fingerstyle students worldwide.",
+      "sources": [
+        { "label": "Performance — “Windy and Warm”", "url": "https://www.youtube.com/watch?v=y7Mv8Y_Fp2M" },
+        { "label": "Biography — Wikipedia", "url": "https://en.wikipedia.org/wiki/Chet_Atkins" }
+      ]
     },
     {
       "name": "Michael Hedges",
-      "title": "The Acoustic Revolutionary",
       "years": "1953–1997",
-      "bio": "An American acoustic guitarist and composer trained in classical composition at the Peabody Conservatory, he revolutionized the steel-string acoustic guitar in the 1980s under the Windham Hill record label. He pioneered “percussive fingerstyle,” integrating extended techniques into traditional classical structures: slap harmonics (striking the strings sharply at harmonic nodes to excite overtones), dual-handed fretboard tapping, and using the guitar’s wooden body as a multi-tonal percussion instrument. He used heavy-gauge strings and extreme alternate tunings to lower the guitar’s register so it could mimic a cello or harp.",
-      "signatureTrack": "Aerial Boundaries",
-      "videoUrl": "https://www.youtube.com/watch?v=IZimv-KYr8M"
+      "image": "/portfolio/michael_hedges.jpg",
+      "imageCredit": "Fair use, identification (en.wikipedia.org)",
+      "bio": "Hedges was an American acoustic guitarist and composer trained in classical composition at the Peabody Conservatory. He revolutionized the steel-string acoustic guitar in the 1980s under the Windham Hill record label. He pioneered “percussive fingerstyle” by integrating extended techniques into traditional classical structures. These mechanics included slap harmonics (striking the strings sharply at specific harmonic nodes to excite overtones), dual-handed fretboard tapping, and using the guitar’s wooden body as a multi-tonal percussion instrument. He utilized heavy-gauge strings and extreme alternate tunings to lower the guitar’s register to mimic a cello or harp.",
+      "sources": [
+        { "label": "Performance — “Aerial Boundaries” (live)", "url": "https://www.youtube.com/watch?v=IZimv-KYr8M" },
+        { "label": "Biography — Wikipedia", "url": "https://en.wikipedia.org/wiki/Michael_Hedges" }
+      ]
     },
     {
       "name": "Tommy Emmanuel",
-      "title": "The One-Man Band",
-      "years": "b. 1955",
-      "bio": "An Australian fingerstyle virtuoso who began as a child prodigy, he is one of only five players globally designated a “Certified Guitar Player” (CGP) by Chet Atkins. He uses a highly developed hybrid technique, combining a thumbpick with his bare index, middle, and ring fingers, and is renowned for his precise “one-man-band” approach — simultaneously executing a driving syncopated bassline, mid-range chordal accompaniment, a percussive drum groove, and a fluid vocal-like melody without loop pedals or overdubbing. He also uses the guitar’s soundboard, neck, and tuning pegs to produce simulated snare, brush, and string-bend effects. His performance of Mason Williams’ “Classical Gas” demonstrates great rhythm and control.",
-      "signatureTrack": "Classical Gas",
-      "videoUrl": "https://www.youtube.com/watch?v=S33tWZqXhnk"
+      "years": "",
+      "image": "/portfolio/tommy_emmanuel.jpg",
+      "imageCredit": "Public domain, Wikimedia Commons",
+      "bio": "Emmanuel is an Australian fingerstyle virtuoso who began his career as a child prodigy. He is one of only five players globally to be designated a “Certified Guitar Player” (CGP) by Chet Atkins. Emmanuel utilizes a highly developed hybrid technique, combining a thumbpick with his bare index, middle, and ring fingers. He is renowned for his precise “one-man-band” approach, where he simultaneously executes a driving, syncopated bassline, a mid-range chordal accompaniment, a percussive drum groove, and a fluid vocal-like melody without the aid of loop pedals or overdubbing. He also utilizes the guitar’s soundboard, neck, and tuning pegs to produce simulated snare drum, brush, and string-bend effects. Emmanuel has brought fingerstyle guitar to global concert halls, showcasing the absolute physical and dynamic limits of the solo acoustic guitar. His performance of Mason Williams’ “Classical Gas” demonstrates great rhythm and control.",
+      "sources": [
+        { "label": "Performance — “Classical Gas”", "url": "https://www.youtube.com/watch?v=S33tWZqXhnk" },
+        { "label": "Biography — Wikipedia", "url": "https://en.wikipedia.org/wiki/Tommy_Emmanuel" }
+      ]
     },
     {
       "name": "Andy McKee",
-      "title": "The Modern Percussive Pioneer",
-      "years": "b. 1979",
-      "bio": "An American fingerstyle guitarist and composer who became a pioneer of the modern digital music era, achieving global viral success in 2006. Heavily influenced by Michael Hedges and Don Ross, his playing features advanced techniques including over-the-neck fretting (draping the fretting hand over the top of the neck to tap bass notes), percussive hand slaps on the lower strings, and the strategic use of partial capos to isolate specific open strings. He successfully merged highly complex percussive techniques with accessible, pop-influenced melodic structures; his viral performance of “Drifting” showed how physical movement and visual choreography could engage modern digital audiences.",
-      "signatureTrack": "Drifting",
-      "videoUrl": "https://www.youtube.com/watch?v=Ddn4MGaS3N4"
+      "years": "",
+      "image": "/portfolio/andy_mckee.jpg",
+      "imageCredit": "CC BY 3.0, Wikimedia Commons",
+      "bio": "McKee is an American fingerstyle guitarist and composer who became a pioneer of the modern digital music era. His acoustic compositions achieved global viral success in 2006. He is heavily influenced by Michael Hedges and Don Ross. McKee’s playing features advanced modern techniques, including over-the-neck fretting (draping the fretting hand over the top of the neck to tap bass notes), percussive hand slaps on the lower strings, and the strategic use of partial capos to isolate specific open strings while leaving others in their natural registers. McKee successfully merged highly complex percussive techniques with accessible, pop-influenced melodic structures. His viral performance of “Drifting” demonstrated how physical movement and visual choreography could be integrated with acoustic guitar performance to engage modern digital audiences.",
+      "sources": [
+        { "label": "Performance — “Drifting”", "url": "https://www.youtube.com/watch?v=Ddn4MGaS3N4" },
+        { "label": "Biography — Wikipedia", "url": "https://en.wikipedia.org/wiki/Andy_McKee" }
+      ]
     }
   ],
   "recordings": [
@@ -80,130 +89,123 @@
       "title": "6- and 12-String Guitar",
       "artist": "Leo Kottke",
       "year": "1969",
-      "keyTrack": "The Driving of the Year Nail",
-      "significance": "A high-energy, raw, and incredibly fast solo acoustic record played on 6- and 12-string steel-string guitars — no vocals, no backing band, just one player and impressive technique. It overturned the assumption that solo acoustic guitar was only for quiet folk or formal classical music, and became John Fahey’s Takoma Records’ best-selling release of all time.",
-      "spotifyUrl": "https://www.youtube.com/watch?v=0Gh-U9T7T4Q"
+      "keyTrack": "The Driving Of The Year Nail",
+      "image": "/portfolio/twelve_string.jpg",
+      "imageCaption": "12-string steel-string acoustic — CC BY, Wikimedia Commons",
+      "significance": "This is a high-energy, raw, and incredibly fast solo acoustic guitar record played on 6-string and 12-string steel-string guitars. There are no vocals, no backing band, just one guy playing with impressive techniques. Before this album came out, most people thought solo acoustic guitar was just meant for quiet folk songs or formal classical music. Kottke proved them wrong. As proof of its massive impact, this album became John Fahey’s Takoma Records’ best-selling release of all time. Individual tracks like the opening “The Driving Of The Year Nail” have generated over 275,000 views on standalone YouTube uploads, which is huge for a 1960s solo acoustic instrumental.",
+      "sources": [
+        { "label": "“The Driving Of The Year Nail”", "url": "https://www.youtube.com/watch?v=0Gh-U9T7T4Q" }
+      ]
     },
     {
       "title": "Sir John Alot of Merrie Englandes Musyk Thyng & Ye Grene Knyghte",
       "artist": "John Renbourn",
       "year": "1968",
       "keyTrack": "The Earle of Salisbury",
-      "significance": "A beautiful, quiet, and highly creative instrumental album that blends old English folk tunes and medieval classical music with American blues and jazz. It essentially defined the “folk baroque” genre, arranging keyboard and lute pieces from the 1500s and 1600s for the modern steel-string guitar. Acoustic Guitar magazine featured it as a landmark moment and published a complete technical breakdown of its lead track, “The Earle of Salisbury.”",
-      "spotifyUrl": "https://www.youtube.com/watch?v=6uvdjIo_R3A"
+      "image": "/portfolio/lute.jpg",
+      "imageCaption": "A Renaissance lute — CC BY-SA, Wikimedia Commons",
+      "significance": "This is a beautiful, quiet, and highly creative instrumental album that blends old English folk tunes and medieval classical music with American blues and jazz. This is important because this record basically defined the “folk baroque” genre. He took old keyboard and lute pieces written in the 1500s and 1600s and figured out how to play them on a modern steel-string acoustic guitar. As proof of its academic and musical significance, Acoustic Guitar Magazine featured it as a landmark historical moment and published a complete technical breakdown of its lead track, “The Earle of Salisbury.” Additionally, Renbourn’s original instructional videos for this piece have generated nearly 100,000 views on YouTube.",
+      "sources": [
+        { "label": "Album", "url": "https://www.youtube.com/watch?v=6uvdjIo_R3A" },
+        { "label": "Acoustic Guitar — “The Earle of Salisbury” breakdown", "url": "https://acousticguitar.com/the-earle-of-salisbury-learn-john-renbourns-classic-arrangement-of-a-renaissance-keyboard-piece/" },
+        { "label": "Renbourn’s instructional video", "url": "https://www.youtube.com/watch?v=Zn3btXD9K74" }
+      ]
     }
+  ],
+  "pima": [
+    { "letter": "p", "name": "Pulgar", "role": "The thumb. Responsible for the bass register on the 6th, 5th, and 4th strings." },
+    { "letter": "i", "name": "Índice", "role": "The index finger. Plucks the 3rd string." },
+    { "letter": "m", "name": "Medio", "role": "The middle finger. Plucks the 2nd string." },
+    { "letter": "a", "name": "Anular", "role": "The ring finger. Plucks the 1st string." }
   ],
   "techniques": [
     {
-      "name": "Travis Picking & Alternating Bass",
-      "description": "A foundational country and folk technique in which the thumb plays a steady, alternating quarter-note bass line between two or three lower strings (the 6th, 5th, and 4th), while the index and middle fingers pluck syncopated melody notes on the upper treble strings.",
-      "practice": "Lightly palm-mute the bass strings to create a thumpy, percussive pulse that lets the treble melody ring clearly over the top."
+      "name": "Travis Picking",
+      "description": "A foundational country and folk technique where the thumb plays a steady, alternating quarter-note bass line between two or three lower strings, while the fingers pluck syncopated melody notes on the upper strings."
     },
     {
       "name": "Rest Stroke (Apoyando) vs. Free Stroke (Tirando)",
-      "description": "Two classical picking strokes. In a rest stroke (apoyando) the finger strikes the string and comes to rest on the adjacent lower string, producing a fat, loud melody note. In a free stroke (tirando) the finger plucks in a curling motion that clears the adjacent strings — ideal for rapid arpeggios.",
-      "practice": "Alternate intentionally between the two strokes to feel the difference in muscle engagement and hear the contrast in tone."
+      "description": "Classical picking strokes. In a rest stroke, the plucking finger strikes the string and comes to rest on the adjacent lower string, producing a fat, loud melody note. In a free stroke, the finger plucks the string in a curling motion that clears the adjacent strings, ideal for rapid arpeggios."
     },
     {
       "name": "Thumb Alternation",
-      "description": "The coordination required to keep the thumb on a steady rhythmic pulse while the other fingers play independent, syncopated rhythms — combined with the practice of alternating the picking fingers (e.g., i-m-i-m) to maintain speed and an even tone.",
-      "practice": "Drill scale passages slowly with a metronome, matching the volume and tone between alternating fingers."
+      "description": "The physical coordination required to keep the thumb on a steady rhythmic pulse while the other fingers play independent syncopated rhythms and the practice of alternating picking fingers (e.g., i-m-i-m) to maintain speed and even tone."
     }
   ],
-  "exercises": [
+  "techniqueImage": "/portfolio/pima_hand.jpg",
+  "techniqueImageCaption": "The picking hand at the strings — CC BY, Wikimedia Commons",
+  "techniqueSources": [
+    { "label": "JustinGuitar — Introduction to Fingerstyle Guitar (PIMA)", "url": "https://www.justinguitar.com/guitar-lessons/introduction-to-fingerstyle-guitar-bg-1105" },
+    { "label": "Guitar picking (PIMA, rest/free stroke) — Wikipedia", "url": "https://en.wikipedia.org/wiki/Guitar_picking" }
+  ],
+  "stylisticTraits": [
+    "One common stylistic trait is placing melodic accents on the weak “and” beats between the steady bass pulses, as it creates a driving, dance-like rhythmic tension that most songs encompass.",
+    "Another trait is alternate tunings (scordatura). Tuning the guitar strings away from standard tuning (E-A-D-G-B-E) to open chord shapes or modal registers (such as DADGAD or Open G). This allows open strings to act as resonant, ringing drones and creates unique chord voicings with close intervals.",
+    "Similarly, one other stylistic trait is arranging a piece so that a single solo guitarist simultaneously covers the bass line, rhythmic accompaniment, percussive sounds, and the primary vocal melody with one instrument."
+  ],
+  "stylisticImage": "/portfolio/headstock.jpg",
+  "stylisticImageCaption": "Retuning the strings opens new voicings and drones — CC BY-SA, Wikimedia Commons",
+  "stylisticSources": [
+    { "label": "DADGAD tuning — Wikipedia", "url": "https://en.wikipedia.org/wiki/DADGAD" },
+    { "label": "List of guitar tunings (Open G & scordatura) — Wikipedia", "url": "https://en.wikipedia.org/wiki/List_of_guitar_tunings" }
+  ],
+  "practice": [
     {
-      "id": 1,
-      "name": "Exercise 1: Thumb Independence (Alternating Bass)",
-      "objective": "Train the picking-hand thumb to hold a steady, automatic pulse on the bass strings while the fretting hand stays on one chord.",
-      "chord": "C Major (x32010)",
-      "instructions": "Set a metronome to a slow 50 BPM and practice an alternating thumb pattern over a C major chord without using the treble fingers. The thumb must strike precisely on beats 1, 2, 3, and 4 — do not speed up. Practice until the thumb can hold a steady, even pulse entirely on its own.",
+      "text": "A personal strategy that I found effective is using a metronome. One could set a metronome to a slow tempo (50 BPM) and practice an alternating thumb pattern (e.g., picking strings 5-4-6-4) over a C major chord without using your treble fingers. Practice until your thumb can maintain a steady, even pulse.",
       "tab": "Tempo  ♩ = 50 BPM        Chord: C major (x32010)\n\nCount:    1      2      3      4\nString:   5      4      6      4\nThumb:    p      p      p      p"
     },
     {
-      "id": 2,
-      "name": "Exercise 2: The Slow / Fast Method (Giuliani 120)",
-      "objective": "Build accurate muscle memory and high-speed control using smooth, rolling right-hand arpeggios.",
-      "chord": "C Major → G7",
-      "instructions": "Play the study slow, then play it fast (roughly twice as fast). This builds both accurate muscle memory and high-speed muscle twitch. Start with 3–4 slow reps for every 1 fast rep, work the ratio down to 2:1, and finally to 1:1; once 1:1 is comfortable, add more fast versions. Mauro Giuliani’s 120 Right-Hand Studies are ideal material for this approach.",
-      "tab": "      C Major                     G7\ne|----0-------0----|----1-------1----|\nB|------1-------1--|------0-------0--|\nG|--0-------0------|--0-------0------|\nCount: 1 & a 2 & a     1 & a 2 & a\nHand:  p i m a p i m a  p i m a p i m a"
+      "text": "An effective strategy is the slow/fast strategy. When studying a piece, play the study slow, then play it fast (roughly twice as fast as the slow version). This builds both accurate muscle memory and high-speed muscle twitch. At first, one should play more slow versions as opposed to fast. Start with 3 or 4 slow versions for every 1 fast version. Work the ratio down to 2:1, and finally to 1:1. Once 1:1 is reached, begin adding more fast versions.",
+      "tab": ""
     }
   ],
-  "stylisticTraits": [
-    {
-      "name": "Accents on the weak “and” beats",
-      "description": "A common stylistic trait is placing melodic accents on the weak “and” beats between the steady bass pulses. This creates the driving, dance-like rhythmic tension that so many fingerstyle pieces are built around."
-    },
-    {
-      "name": "Alternate tunings (scordatura)",
-      "description": "Tuning the guitar away from standard tuning (E-A-D-G-B-E) toward open chord shapes or modal registers such as DADGAD or Open G. Open strings then act as resonant, ringing drones and produce unique chord voicings with close intervals."
-    },
-    {
-      "name": "The one-man-band arrangement",
-      "description": "Arranging a piece so that a single solo guitarist simultaneously covers the bass line, the rhythmic accompaniment, percussive sounds, and the primary vocal melody — all on one instrument."
-    }
+  "practiceImage": "/portfolio/metronome.jpg",
+  "practiceImageCaption": "A metronome — CC BY, Wikimedia Commons",
+  "practiceImage2": "/portfolio/sheet_music.jpg",
+  "practiceImage2Caption": "A classical guitar study (etude) page — CC BY-SA, Wikimedia Commons",
+  "practiceSources": [
+    { "label": "Mauro Giuliani — 120 Right-Hand Studies (PDF)", "url": "https://www.classicalguitar.org/freemusic/exercises/Giuliani120.pdf" }
   ],
   "equipment": [
     {
-      "name": "Smaller, balanced body shapes",
-      "description": "Fingerstyle players generally avoid large Dreadnought guitars, which are bass-heavy and built for flatpicking projection. Instead they prefer smaller-bodied instruments — the Orchestra Model (OM), Grand Concert, or Auditorium — whose balanced, clear mid-range response lets individual notes within a chord be clearly distinguished."
+      "text": "Fingerstyle players generally avoid large Dreadnought guitars, which are bass-heavy and designed for flatpicking projection. Instead, they prefer smaller-bodied instruments such as Orchestra Model (OM), Grand Concert, or Auditorium shapes, which provide a balanced, clear mid-range response where individual notes in a chord can be clearly distinguished.",
+      "image": "/portfolio/om_guitar.jpg",
+      "imageCaption": "A Martin OM (Orchestra Model) acoustic — CC, Wikimedia Commons"
     },
     {
-      "name": "Flesh-and-nail tone",
-      "description": "Many modern players grow their picking-hand fingernails slightly past the flesh of the fingertip and shape them at an angle with fine-grit sandpaper so the string releases smoothly. Plucking with a combination of flesh (for warmth) and nail (for a bright, clear attack) produces the ideal fingerstyle tone."
+      "text": "Many modern fingerstyle players grow their picking-hand fingernails slightly past the flesh of the fingertip. Using fine-grit sandpaper, they shape the nails at an angle so that the string is released smoothly. Plucking with a combination of the finger’s flesh (for warmth) and the nail (for a bright, clear attack) provides the ideal fingerstyle tone.",
+      "image": "/portfolio/pima_hand.jpg",
+      "imageCaption": "Flesh-and-nail contact at the strings — CC BY, Wikimedia Commons"
     }
+  ],
+  "equipmentSources": [
+    { "label": "Acoustic Guitar — Identifying Common Body Shapes & Sizes", "url": "https://acousticguitar.com/a-guide-to-identifying-common-acoustic-guitar-shapes-and-sizes/" }
   ],
   "reflection": "My learning experience this semester definitely started with trying to understand the actual notes and managing the constant balance between looking at the music sheet paper, looking down at the guitar strings, and finding the correct fret location all at the exact same time. Honestly, I found that incredibly challenging because I was unfamiliar with everything at first; it felt like my eyes and brain were trying to focus on three different places at once, and my hands just wouldn’t cooperate. Every time I looked at the sheet music, I’d lose my hand placement, and every time I looked down to check my fingers on the strings, I’d lose my place on the page. Then, once I finally started memorizing some of the fret positions, I faced major issues with my speed and rhythm. My timing was completely inconsistent; sometimes I would randomly speed up during the easier transitions, and other times I would dramatically slow down whenever a difficult chord change or a quick finger-pluck came up. It was frustrating because I couldn’t keep a steady, even groove going. To fix this, I had to stop trying to force the pieces at full speed. I started isolating the hardest chord shifts, practicing them incredibly slowly, and slowly training my muscle memory so that my hands could find the frets without me needing to stare at them constantly. It made me realize that fingerstyle is less about rushing through the notes and much more about building a steady, reliable muscle memory.",
   "glossary": [
-    {
-      "term": "PIMA",
-      "definition": "The classical Spanish notation for the picking-hand fingers: p (thumb / pulgar), i (index / índice), m (middle / medio), and a (ring / anular)."
-    },
-    {
-      "term": "Apoyando (Rest Stroke)",
-      "definition": "A plucking stroke where the finger strikes a string and comes to rest on the adjacent lower string, creating a loud, projecting melody note."
-    },
-    {
-      "term": "Tirando (Free Stroke)",
-      "definition": "A plucking stroke where the finger plucks the string in a curling motion, clearing the adjacent strings — ideal for rapid arpeggios."
-    },
-    {
-      "term": "Palm Muting",
-      "definition": "Resting the side of the picking hand’s palm lightly on the strings near the bridge saddle to dampen the sustain, creating a thumpy, percussive bass sound."
-    }
+    { "term": "PIMA", "definition": "The classical Spanish notation for the picking-hand fingers: p (thumb/pulgar), i (index/índice), m (middle/medio), and a (ring/anular)." },
+    { "term": "Apoyando (Rest Stroke)", "definition": "A plucking stroke where the finger strikes a string and comes to rest on the adjacent lower string, creating a loud, projecting melody note." },
+    { "term": "Tirando (Free Stroke)", "definition": "A plucking stroke where the finger plucks the string in a curling motion, clearing the adjacent strings, ideal for rapid arpeggios." },
+    { "term": "Palm Muting", "definition": "Rest lightly the side of the picking hand's palm on the strings near the bridge saddle to dampen the sustain, creating a thumpy, percussive bass sound." }
   ],
-  "resources": {
-    "books": [
-      {
-        "title": "120 Right-Hand Studies",
-        "author": "Mauro Giuliani",
-        "focus": "The classic studies for building right-hand finger independence, speed, and arpeggio accuracy — ideal for the slow/fast practice method.",
-        "url": "https://www.classicalguitar.org/freemusic/exercises/Giuliani120.pdf"
-      }
-    ],
-    "youtube": [
-      {
-        "name": "JustinGuitar — Intro to Fingerstyle",
-        "url": "https://www.justinguitar.com/guitar-lessons/introduction-to-fingerstyle-guitar-bg-1105",
-        "focus": "A step-by-step video curriculum for beginners learning foundational picking patterns and PIMA coordination."
-      },
-      {
-        "name": "Brandon Acker",
-        "url": "https://www.youtube.com/@BrandonAcker",
-        "focus": "Detailed, academic video lessons on classical guitar mechanics, hand relaxation, and the precise nail care that fingerstyle tone depends on."
-      }
-    ],
-    "platforms": [
-      {
-        "name": "TrueFire",
-        "url": "https://truefire.com/",
-        "focus": "Interactive video courses taught by fingerstyle masters including Tommy Emmanuel, with follow-along exercises."
-      },
-      {
-        "name": "JamPlay — Tommy Emmanuel",
-        "url": "https://jamplay.com/guitar-teachers/221-tommy-emmanuel",
-        "focus": "Dedicated fingerstyle lessons and breakdowns taught by Tommy Emmanuel."
-      }
-    ]
-  },
-  "listeningGuides": []
+  "vocabSources": [
+    { "label": "Guitar picking (terminology & strokes) — Wikipedia", "url": "https://en.wikipedia.org/wiki/Guitar_picking" }
+  ],
+  "resources": [
+    {
+      "name": "JustinGuitar",
+      "url": "https://www.justinguitar.com/guitar-lessons/introduction-to-fingerstyle-guitar-bg-1105",
+      "focus": "This provides step-by-step video curriculum for beginners learning foundational picking patterns and PIMA coordination that I personally found useful."
+    },
+    {
+      "name": "Brandon Acker (YouTube channel)",
+      "url": "https://www.youtube.com/@BrandonAcker",
+      "focus": "This person offers highly detailed, academic video lessons focusing on classical guitar mechanics, hand relaxation, and precise nail care for fingerstyle guitarists, which I find important."
+    },
+    {
+      "name": "TrueFire",
+      "url": "https://truefire.com/",
+      "focus": "This offers interactive video courses taught by experienced fingerstyle guitarists like Tommy Emmanuel, allowing students to follow along to instructional videos with exercises."
+    }
+  ]
 }
