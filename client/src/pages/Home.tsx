@@ -188,7 +188,7 @@ export default function Home() {
                     <Layers className="h-5 w-5 text-accent" /> The PIMA Fingering System
                   </CardTitle>
                   <CardDescription className="font-sans text-xs">
-                    The foundational classical shorthand for the picking-hand fingers.
+                    The classical shorthand for naming the picking-hand fingers.
                   </CardDescription>
                 </CardHeader>
                 <CardContent className="p-6 space-y-3">
